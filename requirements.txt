@@ -1,0 +1,6 @@
+---
+
+## **2. `requirements.txt`** (empty if no external packages)
+
+```text
+# No external packages needed
